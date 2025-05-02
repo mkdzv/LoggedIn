@@ -1,15 +1,33 @@
 # LoggedIn
-LoggedIn is a log analysis system designed to process Windows Event Logs and identify suspicious login patterns. This tool enhances SIEM (Security Information and Event Management) alerting capabilities and includes automated reporting features to significantly reduce manual log review time for security teams.
-
+LoggedIn is a log analysis system designed to process Windows Event Logs and identify suspicious login attempts. This tool includes automated reporting features to reduce manual log review time for security teams. I built the tool with Python and integrated it with Splunk, I also added NumPy for analysis and Matplotlib for data visualization.
 
 ## Features
+- **Automated Logs**: Automated parsing of Windows Security Event Logs (Event ID 4624, 4625, etc.)
+- **Splunk Integration**: Splunk integration for log management
+- **Numpy Analysis**: Statistical analysis using NumPy
+- **Matplotlib Visualization**: Data visualization with Matplotlib
+- **Attack Detection**: Detection of brute force attacks and suspicious login attempts
+- **Timely Detection**: Time-based detection (off-hours login activity)
+- **Data Analysis**: Failed login attempt analysis
+
 
 ## How it works
+The user runs the program
+The program outputs the logs and details of all 100 logs that were processed
+The user analyzes the logs and statistics to see what happened
+The user 
 
 ## Installation
+1. Download the lastest version of Python on your device
+2. Download all files from the LoggedIn folder
+3. Save files in the same folder
 
 ## Usage
-
+1. 
+2. 
+3. 
+4. 
+5. 
 ## Example
 
 ## Contribute
