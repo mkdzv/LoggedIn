@@ -7,7 +7,7 @@ LoggedIn is a log analysis system designed to process Windows Event Logs and ide
 - **Numpy Analysis**: Statistical analysis using NumPy
 - **Matplotlib Visualization**: Data visualization with Matplotlib
 - **Attack Detection**: Detection of brute force attacks and suspicious login attempts
-- **Timely Detection**: Time-based detection (off-hours login activity)
+- **Timely Detection**: Time based detection (off-hours login activity)
 - **Data Analysis**: Failed login attempt analysis
 
 
