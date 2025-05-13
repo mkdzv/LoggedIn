@@ -12,10 +12,10 @@ LoggedIn is a log analysis system designed to process Windows Event Logs and ide
 
 
 ## How it works
-The user runs the program
-The program outputs the logs and details of all 100 logs that were processed
-The user analyzes the logs and statistics to see what happened
-The user reads through the data visualization 
+- The user runs the program
+- The program outputs the logs and details of all 100 logs that were processed
+- The user analyzes the logs and statistics to see what happened
+- The user reads through the data visualization 
 
 ## Installation
 1. Download the lastest version of Python on your device
