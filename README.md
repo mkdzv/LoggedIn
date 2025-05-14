@@ -29,3 +29,6 @@ LoggedIn is a log analysis system designed to process Windows Event Logs and ide
 3. Open the terminal and type python loggedin.py
 4. Run the program
 5. Look through all the logs
+
+## Contribute
+Contribution is always appreciated
