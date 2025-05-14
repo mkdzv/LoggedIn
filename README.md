@@ -2,7 +2,7 @@
 LoggedIn is a log analysis system designed to process Windows Event Logs and identify suspicious login attempts.
 
 ## Features
-This tool has automated parsing for the event logs, splunk integration that manages the logs, numpy which is used for data analysis, matplotlib for data visuals (graphs and charts), detects attacks and suspicious logins and lastly gives details about the logs like failed attempts, time, data and the user themselves.
+This tool has automated parsing for the event logs, splunk integration that manages the logs, numpy which is used for data analysis, matplotlib for data visuals (graphs and charts), detects attacks and suspicious logins and lastly gives details about the logs, like failed attempts, time, data, and the user themselves.
 
 
 ## How it works
